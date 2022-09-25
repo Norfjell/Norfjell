@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Norfjell
+- 👋 Hi, I’m Liviu Bibire
 - 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me bibire.liviu@gmail.com
